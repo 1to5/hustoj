@@ -1,0 +1,3 @@
+[submodule "trunk/web/template/ash"]
+	path = trunk/web/template/ash
+	url = git@github.com:1to5/hustoj-ash.git
